@@ -34,7 +34,7 @@ export const navItems: NavItem[] = [
   {
     id:"mineral",
     icon: <RectangleGroupIcon />,
-    name: "Mineral Owners",
+    name: "Surface Owners",
     subItems: [
       { name: "Add New", path: "/add-mineral" },
       { name: "List", path: "/mineral" },
